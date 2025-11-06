@@ -64,8 +64,6 @@ The program enables users to **query weather data** for capital cities and allow
 
 ---
 
-## 🗂️ Project Structure
-
 
 
 📁 Weather-Information-System
@@ -86,7 +84,6 @@ The program enables users to **query weather data** for capital cities and allow
 
 ## ▶️ How to Run
 
-```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/YourUsername/Weather-Information-System.git
 
@@ -99,24 +96,6 @@ g++ main.cpp -o weather_system
 # 4️⃣ Run the program
 ./weather_system
 ````
-
----
-
-## 🖼️ Screenshots
-
-### 🔧 Admin Panel
-
-*(Example showing data add/update options)*
-![Admin Panel](assets/admin_panel.png)
-
-### 🌤️ User Mode Query
-
-*(Example showing a weather search result)*
-![User Mode](assets/user_mode.png)
-
-> *Replace image paths with your actual screenshot locations after upload.*
-
----
 
 ## 💡 Challenges & Learnings
 
