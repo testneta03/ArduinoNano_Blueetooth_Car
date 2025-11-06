@@ -65,19 +65,23 @@ The program enables users to **query weather data** for capital cities and allow
 ---
 
 
+📂 Project Structure
 
-📁 Weather-Information-System
-│
-├── main.cpp                 # Core application logic
-├── weather_data.txt         # Local data storage
-├── README.md                # Project documentation
-│
-├── structs/
-│   └── WeatherData.h        # Weather data structure
-│
-└── classes/
-└── WeatherFileHandler.h # Handles file I/O operations
+Weather-Information-System/
 
+main.cpp – Core application logic
+
+weather_data.txt – Local data storage
+
+README.md – Project documentation
+
+structs/
+
+WeatherData.h – Weather data structure
+
+classes/
+
+WeatherFileHandler.h – Handles file I/O operations
 ````
 
 ---
